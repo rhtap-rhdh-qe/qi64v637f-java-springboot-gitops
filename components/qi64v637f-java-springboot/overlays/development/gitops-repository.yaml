@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: qi64v637f-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/qi64v637f-java-springboot-gitops
